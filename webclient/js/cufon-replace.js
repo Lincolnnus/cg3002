@@ -1,0 +1,1 @@
+Cufon.replace('h2, h3, h5,   .call,    .block_title,   .block_title, .project_title, #header .main_menu a, .copy_title, .createdate, .icon_title1, .icon_title2, .icon_title3, .icon_title4, .some_title,   .faq_links, #link ', { fontFamily: 'Proletarsk', hover: 'true' });
