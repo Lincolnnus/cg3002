@@ -1,0 +1,6 @@
+000001 Green LED 0.80
+111111 haha 1.00
+121212 Black LED 9.50
+203789 Nestle Mocha 1.10
+388791 Starbucks Coffee 2.70
+921834 LaLa Coffee 2.91
